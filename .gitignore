@@ -1,0 +1,13 @@
+target/
+mail-data/
+*.log
+out.log
+err.log
+shot*.png
+.env
+.env.*
+*.db
+*.db-shm
+*.db-wal
+Thumbs.db
+.DS_Store
