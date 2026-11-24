@@ -1,4 +1,4 @@
-# mail
+# mail-rs
 
 <img src="assets/logo.png" width="96" alt="mail logo" />
 
